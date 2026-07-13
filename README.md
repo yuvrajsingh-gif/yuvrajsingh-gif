@@ -8,12 +8,12 @@
 </p>
 
 - 🎓 Currently pursuing a **B.Tech in Information Technology with Business Informatics** at **Indian Institute of Information Technology, Allahabad**
-- 💼 Working as a **Software Engineering Intern** at **Different.ai**, specializing in AWS, Spring Boot, and AI Agents.
-- 🚀 Previously worked in a fast-paced **Stealth Startup**, building scalable and robust systems.
+- 💼 Previously worked in a fast-paced **Stealth Startup**, building scalable and robust systems with hands-on experience in **AWS, Spring Boot, and AI Agents**.
 - 🏆 **Competitive Programmer**: 
-  - Codeforces Specialist (max rating 1530+)
+  - Codeforces Expert (max rating 1600+)
   - CodeChef 4-Star Coder (max rating 1816+)
   - LeetCode Knight (top 5.7%)
+  - Solved 1000+ problems across various platforms
 - 📫 How to reach me: **yuvrajimpinfo@gmail.com**
 
 ### 🛠️ Languages & Tools:
