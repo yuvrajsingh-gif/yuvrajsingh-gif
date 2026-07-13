@@ -9,7 +9,7 @@
 
 - 🎓 Currently pursuing a **B.Tech in Information Technology with Business Informatics** at **Indian Institute of Information Technology, Allahabad**
 - 💼 Working as a **Software Engineering Intern** at **Different.ai**, specializing in AWS, Spring Boot, and AI Agents.
-- 🚀 Actively working on **Argus – AI-Powered PR Review Agent** (Python, FastAPI, Claude & Gemini)
+- 🚀 Previously worked in a fast-paced **Stealth Startup**, building scalable and robust systems.
 - 🏆 **Competitive Programmer**: 
   - Codeforces Specialist (max rating 1530+)
   - CodeChef 4-Star Coder (max rating 1816+)
