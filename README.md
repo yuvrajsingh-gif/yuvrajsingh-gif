@@ -20,13 +20,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,spring,react,nextjs,nodejs,aws,terraform,mongodb" alt="skill-icons" />
 </p>
-
-### 📈 GitHub Stats:
-<p align="center">
-  <a href="https://github.com/yuvrajsingh-gif">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh-gif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/yuvrajsingh-gif">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh-gif&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
