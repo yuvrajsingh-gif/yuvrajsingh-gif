@@ -13,7 +13,7 @@
   - Codeforces Expert (max rating 1600+)
   - CodeChef 4-Star Coder (max rating 1816+)
   - LeetCode Knight (top 5.7%)
-  - Solved 1000+ problems across various platforms
+  - Solved 1000+ problems across various coding platforms
 - 📫 How to reach me: **yuvrajimpinfo@gmail.com**
 
 ### 🛠️ Languages & Tools:
